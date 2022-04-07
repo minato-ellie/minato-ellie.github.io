@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(235, 92, 32);
+}
+
+.bg-box{
+    height: 100vh;
+}
+
+.itm-box{
+    padding-top: 35vh;
+    height:30vh;
+    text-align: center;
+}
+
+.itm-img{
+    height: 100%;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
